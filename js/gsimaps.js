@@ -16,7 +16,7 @@ var GSI = {
 
 };
 
-var CONFIG = {};
+var CONFIG = {layers3.txt};
 CONFIG.ISPREVIEWSITE = false;// ( window.location.href .match(/localhost/) || window.location.href .match(/gsimap.pre.mediaart.co.jp/) );
 
 // 情報リストからレイヤーを追加した時、選択中の情報を開くかどうか
